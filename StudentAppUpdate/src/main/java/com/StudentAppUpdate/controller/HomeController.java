@@ -18,7 +18,7 @@ public class HomeController {
 	{
 		
 		si.updateStudent( s);
-		return "data Deleted";
+		return "data updated";
 		
 	}
 
